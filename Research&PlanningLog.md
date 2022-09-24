@@ -9,3 +9,4 @@
 
 * 12:07 PM: Still trying to find a template or tutorial that makes sense for a grid of photos and doesn't have a lot of extra features.
 * 1:09PM: Reading about Netlify and exploring the account I set up awhile back.
+* 2:06 PM: Trying to deploy one of my projects on Netlify.
