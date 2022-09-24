@@ -1,3 +1,4 @@
-# Project Log
+# Research & Planning Log
+## Friday, 09/23
 
-* Begin research: tutorials
+* 8:02 PM: Begin research on tutorials
