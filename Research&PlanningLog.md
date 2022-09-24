@@ -8,3 +8,4 @@
 ## Saturday, 09/24
 
 * 12:07 PM: Still trying to find a template or tutorial that makes sense for a grid of photos and doesn't have a lot of extra features.
+* 1:09PM: Reading about Netlify and exploring the account I set up awhile back.
